@@ -9,8 +9,6 @@ snooge is a Python script that allows you to download all of your saved NSFW pos
 - [praw](https://praw.readthedocs.io/en/latest/)
 - [youtube-dl](https://rg3.github.io/youtube-dl/)
 - [py-gfycat](https://github.com/ankeshanand/py-gfycat)
-- [dataset](https://dataset.readthedocs.io/en/latest/)
-
 
 ## Usage
 
