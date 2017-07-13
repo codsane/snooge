@@ -35,8 +35,8 @@ Running snooge is as simple as:
 
 	$ python3 snooge.py
 
-By default, a new folder with your reddit username will be created inside the same directory as snooge.py. All files downloaded will be saved here.
+By default, a new folder with your reddit username will be created inside the same directory as snooge.py. All files downloaded will be saved there.
 
-If you would like to change this directory, you may run snooge.py followed by the location you would like your files saved:
+If you would like to change this directory, you may run snooge.py followed by the location you would like your files to be saved:
 
-	$ python3 snooge.py /Users/codsane/documents/taxes-2017
+	$ python3 snooge.py /Users/codsane/documents/taxes2017
