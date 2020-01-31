@@ -1,6 +1,7 @@
-# ![alt text](http://i.imgur.com/7U0Oqwf.png "Credits: /u/lemonzoidberg") snooge
-
 **snooge has been made obsolete by the combination of [rchive](https://github.com/codsane/rchive) and something like [ArchiveBox](https://github.com/pirate/ArchiveBox)**
+
+
+~~# ![alt text](http://i.imgur.com/7U0Oqwf.png "Credits: /u/lemonzoidberg") snooge~~
 
 ~~snooge is a Python script that allows you to download all of your saved NSFW posts from reddit and save them locally. snooge supports a variety of websites with help from [youtube-dl](https://rg3.github.io/youtube-dl/).~~
 
